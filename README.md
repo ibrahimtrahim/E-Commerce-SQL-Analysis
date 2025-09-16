@@ -49,3 +49,4 @@ The database has 4 tables:
 - review_text
 
 ## Entity Relationship Diagram (ERD)
+![](ERD.png)
