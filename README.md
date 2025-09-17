@@ -18,35 +18,15 @@ By answering these questions with SQL, the company can:
 ## Dataset Description:
 The database has 4 tables:
 
-**Orders**
-- order_id  
-- customer_id  
-- order_date  
-- product_category  
-- order_value  
-- payment_method  
-- delivered  
-
-**Customers**
-- customer_id  
-- gender  
-- age  
-- city  
-- loyalty_score  
-
-**Products**
-- product_id  
-- product_name  
-- category  
-- price  
-- stock  
-
-**Reviews**
-- review_id  
-- customer_id  
-- product_id  
-- rating  
-- review_text
+| **Orders**        | **Customers**   | **Products**    | **Reviews**       |
+|------------------|----------------|----------------|-----------------|
+| order_id         | customer_id    | product_id     | review_id       |
+| customer_id      | gender         | product_name   | customer_id     |
+| order_date       | age            | category       | product_id      |
+| product_category | city           | price          | rating          |
+| order_value      | loyalty_score  | stock          | review_text     |
+| payment_method   |                |                |                 |
+| delivered        |                |                |                 |
 
 ## Entity Relationship Diagram (ERD)
 ![](ERD.png)
