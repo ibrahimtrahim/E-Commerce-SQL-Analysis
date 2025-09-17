@@ -54,5 +54,5 @@ The database has 4 tables:
 ## Database Exploration
 During this phase, I explored the database structure and content to understand the data before analysis.
 I used SQL queries to check tables, counts, averages, and missing values.
-You can view all queries in the exploration.sql
+You can view all queries in the [exploration.sql](exploration.sql) 
  file.
