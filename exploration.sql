@@ -2,7 +2,10 @@
 =========================================================
 Database Exploration
 =========================================================
-In the exploration phase, I used SQL queries to better understand the structure and content of the e-commerce database. The queries helped me inspect the schema, preview sample rows, check table sizes, explore customer demographics, evaluate product categories, analyze order values, review ratings, and detect missing data. This initial exploration was important to identify patterns, validate data quality, and prepare for deeper business analysis.
+In the exploration phase, I used SQL queries to better understand the structure and content of the e-commerce database. 
+The queries helped me inspect the schema, preview sample rows, check table sizes, explore customer demographics, evaluate product categories, 
+analyze order values, review ratings, and detect missing data. 
+This initial exploration was important to identify patterns, validate data quality, and prepare for deeper business analysis.
 =========================================================
 */
 
@@ -81,4 +84,5 @@ WHERE age IS NULL;
 -- Count customers by gender
 SELECT COUNT(*)
 FROM customers
+
 GROUP BY gender;
