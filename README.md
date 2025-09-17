@@ -50,3 +50,8 @@ The database has 4 tables:
 
 ## Entity Relationship Diagram (ERD)
 ![](ERD.png)
+
+## Database Exploration
+-- See first 10 orders
+SELECT TOP 10 *
+FROM orders;
