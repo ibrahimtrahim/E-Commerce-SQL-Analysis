@@ -56,3 +56,8 @@ During this phase, I explored the database structure and content to understand t
 I used SQL queries to check tables, counts, averages, and missing values.
 You can view all queries in the [exploration.sql](exploration.sql) 
  file.
+
+## Analysis & Insights
+This section contains SQL analyses that answer the business questions and produce actionable insights.
+All queries and inline observations are in the analysis.sql
+ file — run them in SSMS and review the exported results.
