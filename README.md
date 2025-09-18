@@ -42,7 +42,7 @@ This section contains SQL analyses that answer the business questions and produc
 All queries and inline observations are in the [Analysis.sql](Analysis.sql)
  file — run them in SSMS and review the exported results.
 
- ## 📊 Insights & Recommendations
+ ## Insights & Recommendations
 
 Based on the SQL analysis of the e-commerce dataset, here are the main insights and strategic recommendations:
 
