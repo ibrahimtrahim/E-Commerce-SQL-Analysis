@@ -39,7 +39,7 @@ You can view all queries in the [exploration.sql](exploration.sql)
 
 ## Analysis
 This section contains SQL analyses that answer the business questions and produce actionable insights.
-All queries and inline observations are in the [analysis.sql](analysis.sql)
+All queries and inline observations are in the [Analysis.sql](Analysis.sql)
  file — run them in SSMS and review the exported results.
 
  ## 📊 Insights & Recommendations
