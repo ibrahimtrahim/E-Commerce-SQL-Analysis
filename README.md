@@ -1,5 +1,12 @@
 # 🛒 E-Commerce SQL Analysis
 ![](ecommerce.jpg)
+## Tools & Technologies
+- SQL Server
+- SQL Queries for data analysis
+- Markdown for documentation
+## Files
+- [exploration.sql](exploration.sql) – All queries used in database exploration
+- [Analysis.sql](Analysis.sql) – All queries used for analysis with insights
 ## Business Problem:
 The e-commerce company is experiencing **slower sales growth** and **mixed customer satisfaction**.
 Management wants to understand:
